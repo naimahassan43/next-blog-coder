@@ -51,7 +51,6 @@
 }
 
 .description {
-  margin: 4rem 0;
   line-height: 1.5;
   font-size: 1.5rem;
 }
@@ -124,4 +123,10 @@
   list-style-type: none;
   font-weight: bold;
   margin: 0 24px;
+}
+.homeImg {
+  border-radius: 10px;
+}
+.imageWrap {
+  padding: 30px 0 10px;
 }
